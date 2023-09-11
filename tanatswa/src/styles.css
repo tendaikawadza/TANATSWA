@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+:root{
+
+    --primary-color: #026467;
+
+    
+}
+body{
+  
+       background-image:url('assets/img/pic1.jpg');
+        background-repeat:no-repeat;
+        background-attachment:fixed;
+        background-position:top;
+    
+}

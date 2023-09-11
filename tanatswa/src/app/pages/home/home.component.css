@@ -1,0 +1,45 @@
+
+.content {
+    text-align: center;
+    margin: 20px;
+   
+}
+
+
+.content h1 {
+    font-size: 24px;
+}
+
+.content p {
+    font-size: 16px;
+    color: #333;
+}
+
+.content {
+   margin-left: 220px; /* Adjust for the sidebar width */
+    padding: 20px;
+}
+
+/* Info Box Styles */
+.info-box {
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.info-box h2 {
+    color: #333;
+}
+
+/* Data Box Styles */
+.data-box {
+    background-color: #ffdb4d;
+    border: 1px solid #e6b800;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.data-box h2 {
+    color: #e6b800;
+}
