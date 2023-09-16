@@ -12,6 +12,10 @@ import { ContactUsComponent } from './pages/contact-us/contact-us.component';
 import { AboutUsComponent } from './pages/about-us/about-us.component';
 import { MegaMenuModule } from 'primeng/megamenu';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { PaymentsComponent } from './payment/payments/payments.component';
+import { InpersonAppointmentComponent } from './pages/inperson-appointment/inperson-appointment.component';
+import { OnLineAppointmentComponent } from './pages/on-line-appointment/on-line-appointment.component';
+import { SelfImprovementComponent } from './pages/self-improvement/self-improvement.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +26,11 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     HomeComponent,
     SingleCategoryComponent,
     ContactUsComponent,
-    AboutUsComponent
+    AboutUsComponent,
+    PaymentsComponent,
+    InpersonAppointmentComponent,
+    OnLineAppointmentComponent,
+    SelfImprovementComponent
   ],
   imports: [
     BrowserModule,
